@@ -3,8 +3,7 @@
 ##About
 ```
 ProCaptcha is a plugin that i made for a Minecraft server i use to work on a few years
-ago to stop people from botting there server and mass spamming accounts on to there server(s)
-/ hubs.
+ago to stop people from botting there server and mass spamming accounts on to there server(s)/hubs.
 
 So what does it do? 
 --
@@ -27,4 +26,3 @@ What is all the features ProCaptcha Offers??
 5. 💬 - All Messages are customizable as well
 6. 🔒 - Will protect your server from Nasty people/bots.
 ```
-
